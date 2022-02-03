@@ -39,7 +39,6 @@
 	  dur="20s"
 	  values="0%;300%"
 	  repeatCount="indefinite"
-	  delay="10s"
 />
 
 <animate xlink:href="#rainbow"

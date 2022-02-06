@@ -50,40 +50,27 @@
 
 <g transform="translate(93,96) rotate(10)">
 	<use xlink:href="#heart" class="whiteheart"/>
-	<text class="pinktext">
-		<tspan x="0" y="-10">0x7A43</tspan>
-	</text>
+	<text class="pinktext"><tspan x="0" y="-10">0x7A43</tspan></text>
 </g>
 
 <g transform="translate(236,209) rotate(-10)">
 	<use xlink:href="#heart" class="whiteheart"/>
-	<text class="pinktext">
-		<tspan x="0" y="-10">0xCC81</tspan>
-	</text>
+	<text class="pinktext"><tspan x="0" y="-10">0xCC81</tspan></text>
 </g>
 
 <g transform="translate(327,62) rotate(-16)">
 	<use xlink:href="#heart" class="pink"/>
-	<text class="pinktext">
-		<tspan x="10" y="-15">2THE</tspan>
-		<tspan x="0" y="20">MOON</tspan>
-	</text>
+	<text class="pinktext"><tspan x="0" y="-15">2THE</tspan><tspan x="0" y="20">MOON</tspan></text>
 </g>
 
 <g transform="translate(102,325) rotate(7)">
 	<use xlink:href="#heart" class="blue"/>
-	<text class="pinktext">
-		<tspan x="10" y="-15">BULLISH</tspan>
-		<tspan x="0" y="20">4LOVE</tspan>
-	</text>
+	<text class="pinktext"><tspan x="0" y="-15">BULLISH</tspan><tspan x="0" y="20">4LOVE</tspan></text>
 </g>
 
 <g transform="translate(340,344) rotate(-22)">
 	<use xlink:href="#heart" class="yellow"/>
-	<text class="pinktext">
-		<tspan x="10" y="-15">BE</tspan>
-		<tspan x="0" y="20">MINE</tspan>
-	</text>
+	<text class="pinktext"><tspan x="0" y="-15">BE</tspan><tspan x="0" y="20">MINE</tspan></text>
 </g>
 
 <g transform="translate(-40,210) rotate(27)">

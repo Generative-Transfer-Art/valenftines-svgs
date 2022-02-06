@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1200" height="600" class="container"
+	 viewBox="0 0 1200 600" style="enable-background:new 0 0 1200 600;" xml:space="preserve">
+<style type="text/css">
+	.container{margin: 60px auto; font-size:28px; font-family: monospace, monospace; font-weight: 500; letter-spacing: 2px;}
+	.whitetext{fill:#ffffff; text-anchor:middle;}
+	.blacktext{fill:#000000; text-anchor:middle;}
+	.pinktext{fill:#FA0F95; text-anchor:middle;}
+	.whiteheart{fill:#ffffff;}
+
+</style>
+<defs>
+	<g id="heart">
+    	<path d="M79.2-43C71.2-78.4,30.8-84.9,5-60.9c-2.5,2.3-6.4,2.1-8.8-0.3c-25-25.9-75.1-15-76.7,28.2C-82.6,22.3-14,75.2,1.5,75.1
+	C17.3,75.1,91.3,10.7,79.2-43z"/>
+	</g>
+  </defs>
+
+<rect class="pink" width="1200" height="600"/>
+
+<g transform="translate(100,100)">
+	<use xlink:href="#heart" class="whiteheart"/>
+	<text class="pinktext">
+		<tspan x="0" y="-10">0x7A43</tspan>
+	</text>
+</g>
+
+<g transform="translate(300,100)">
+	<use xlink:href="#heart" class="whiteheart"/>
+	<text class="pinktext">
+		<tspan x="0" y="-10">WAGMI</tspan>
+	</text>
+</g>
+
+<g transform="translate(500,100)">
+	<use xlink:href="#heart" class="whiteheart"/>
+	<text class="pinktext">
+		<tspan x="10" y="-15">2THE</tspan>
+		<tspan x="0" y="20">MOON</tspan>
+	</text>
+</g>
+
+<g transform="translate(700,100)">
+	<use xlink:href="#heart" class="whiteheart"/>
+	<text class="pinktext">
+		<tspan x="10" y="-25">ID</tspan>
+		<tspan x="10" y="10">MINT</tspan>
+		<tspan x="0" y="45">U</tspan>
+	</text>
+</g>
+
+</svg>
+
+<!-- comment 
+
+<text>
+	<tspan x="0" y="-10">GM</tspan>
+</text>
+
+<text>
+	<tspan x="0" y="-10">0x0x</tspan>
+</text>
+
+<text>
+	<tspan x="0" y="-10">WAGMI</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">BULLISH</tspan>
+	<tspan x="0" y="20">4YOU</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">BE</tspan>
+	<tspan x="0" y="20">MINE</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">2THE</tspan>
+	<tspan x="0" y="20">MOON</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">COOL</tspan>
+	<tspan x="0" y="20">CAT</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">CUTIE</tspan>
+	<tspan x="0" y="20">PIE</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">BEST</tspan>
+	<tspan x="0" y="20">FREN</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">BIG</tspan>
+	<tspan x="0" y="20">FAN</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">COIN</tspan>
+	<tspan x="0" y="20">BAE</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">SAY I</tspan>
+	<tspan x="0" y="20">DAO</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">MY</tspan>
+	<tspan x="0" y="20">DEGEN</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">PAY MY</tspan>
+	<tspan x="0" y="20">TAXES</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">UP</tspan>
+	<tspan x="0" y="20">ONLY</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">LIL</tspan>
+	<tspan x="0" y="20">MFER</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">ONBOARD</tspan>
+	<tspan x="0" y="20">ME</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">LETS</tspan>
+	<tspan x="0" y="20">MERGE</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">HODL</tspan>
+	<tspan x="0" y="20">ME</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">LOOKS</tspan>
+	<tspan x="0" y="20">RARE</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">WEN</tspan>
+	<tspan x="0" y="20">RING</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-15">SIMP</tspan>
+	<tspan x="0" y="20">4U</tspan>
+</text>
+
+<text>
+	<tspan x="10" y="-25">ID</tspan>
+	<tspan x="10" y="10">MINT</tspan>
+	<tspan x="0" y="45">U</tspan>
+</text>
+
+-->

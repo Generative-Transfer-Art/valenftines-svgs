@@ -20,150 +20,72 @@
 
 <g transform="translate(100,100)">
 	<use xlink:href="#heart" class="whiteheart"/>
-	<text class="pinktext">
-		<tspan x="0" y="-10">0x7A43</tspan>
-	</text>
+	<text class="pinktext"><tspan x="0" y="-10">0x7A43</tspan></text>
 </g>
 
 <g transform="translate(300,100)">
 	<use xlink:href="#heart" class="whiteheart"/>
-	<text class="pinktext">
-		<tspan x="0" y="-10">WAGMI</tspan>
-	</text>
+	<text class="pinktext"><tspan x="0" y="-10">WAGMI</tspan></text>
 </g>
 
 <g transform="translate(500,100)">
 	<use xlink:href="#heart" class="whiteheart"/>
-	<text class="pinktext">
-		<tspan x="10" y="-15">2THE</tspan>
-		<tspan x="0" y="20">MOON</tspan>
-	</text>
+	<text class="pinktext"><tspan x="0" y="-15">2THE</tspan><tspan x="0" y="20">MOON</tspan></text>
 </g>
 
 <g transform="translate(700,100)">
 	<use xlink:href="#heart" class="whiteheart"/>
-	<text class="pinktext">
-		<tspan x="10" y="-25">ID</tspan>
-		<tspan x="10" y="10">MINT</tspan>
-		<tspan x="0" y="45">U</tspan>
-	</text>
+	<text class="pinktext"><tspan x="0" y="-25">ID</tspan><tspan x="0" y="10">MINT</tspan><tspan x="0" y="45">U</tspan></text>
 </g>
 
 </svg>
 
 <!-- comment 
 
-<text>
-	<tspan x="0" y="-10">GM</tspan>
-</text>
+<text><tspan x="0" y="-10">GM</tspan></text>
 
-<text>
-	<tspan x="0" y="-10">0x0x</tspan>
-</text>
+<text><tspan x="0" y="-10">0x0x</tspan></text>
 
-<text>
-	<tspan x="0" y="-10">WAGMI</tspan>
-</text>
+<text><tspan x="0" y="-10">WAGMI</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">BULLISH</tspan>
-	<tspan x="0" y="20">4YOU</tspan>
-</text>
+<text><tspan x="0" y="-15">BULLISH</tspan><tspan x="0" y="20">4YOU</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">BE</tspan>
-	<tspan x="0" y="20">MINE</tspan>
-</text>
+<text><tspan x="0" y="-15">BE</tspan><tspan x="0" y="20">MINE</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">2THE</tspan>
-	<tspan x="0" y="20">MOON</tspan>
-</text>
+<text><tspan x="0" y="-15">2THE</tspan><tspan x="0" y="20">MOON</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">COOL</tspan>
-	<tspan x="0" y="20">CAT</tspan>
-</text>
+<text><tspan x="0" y="-15">COOL</tspan><tspan x="0" y="20">CAT</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">CUTIE</tspan>
-	<tspan x="0" y="20">PIE</tspan>
-</text>
+<text><tspan x="0" y="-15">CUTIE</tspan><tspan x="0" y="20">PIE</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">BEST</tspan>
-	<tspan x="0" y="20">FREN</tspan>
-</text>
+<text><tspan x="0" y="-15">BEST</tspan><tspan x="0" y="20">FREN</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">BIG</tspan>
-	<tspan x="0" y="20">FAN</tspan>
-</text>
+<text><tspan x="0" y="-15">BIG</tspan><tspan x="0" y="20">FAN</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">COIN</tspan>
-	<tspan x="0" y="20">BAE</tspan>
-</text>
+<text><tspan x="0" y="-15">COIN</tspan><tspan x="0" y="20">BAE</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">SAY I</tspan>
-	<tspan x="0" y="20">DAO</tspan>
-</text>
+<text><tspan x="0" y="-15">SAY I</tspan><tspan x="0" y="20">DAO</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">MY</tspan>
-	<tspan x="0" y="20">DEGEN</tspan>
-</text>
+<text><tspan x="0" y="-15">MY</tspan><tspan x="0" y="20">DEGEN</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">PAY MY</tspan>
-	<tspan x="0" y="20">TAXES</tspan>
-</text>
+<text><tspan x="0" y="-15">PAY MY</tspan><tspan x="0" y="20">TAXES</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">UP</tspan>
-	<tspan x="0" y="20">ONLY</tspan>
-</text>
+<text><tspan x="0" y="-15">UP</tspan><tspan x="0" y="20">ONLY</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">LIL</tspan>
-	<tspan x="0" y="20">MFER</tspan>
-</text>
+<text><tspan x="0" y="-15">LIL</tspan><tspan x="0" y="20">MFER</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">ONBOARD</tspan>
-	<tspan x="0" y="20">ME</tspan>
-</text>
+<text><tspan x="0" y="-15">ONBOARD</tspan><tspan x="0" y="20">ME</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">LETS</tspan>
-	<tspan x="0" y="20">MERGE</tspan>
-</text>
+<text><tspan x="0" y="-15">LETS</tspan><tspan x="0" y="20">MERGE</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">HODL</tspan>
-	<tspan x="0" y="20">ME</tspan>
-</text>
+<text><tspan x="0" y="-15">HODL</tspan><tspan x="0" y="20">ME</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">LOOKS</tspan>
-	<tspan x="0" y="20">RARE</tspan>
-</text>
+<text><tspan x="0" y="-15">LOOKS</tspan><tspan x="0" y="20">RARE</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">WEN</tspan>
-	<tspan x="0" y="20">RING</tspan>
-</text>
+<text><tspan x="0" y="-15">WEN</tspan><tspan x="0" y="20">RING</tspan></text>
 
-<text>
-	<tspan x="10" y="-15">SIMP</tspan>
-	<tspan x="0" y="20">4U</tspan>
-</text>
+<text><tspan x="0" y="-15">SIMP</tspan><tspan x="0" y="20">4U</tspan></text>
 
-<text>
-	<tspan x="10" y="-25">ID</tspan>
-	<tspan x="10" y="10">MINT</tspan>
-	<tspan x="0" y="45">U</tspan>
-</text>
+<text><tspan x="0" y="-25">ID</tspan><tspan x="0" y="10">MINT</tspan><tspan x="0" y="45">U</tspan></text>
 
 -->

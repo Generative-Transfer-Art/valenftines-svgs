@@ -3,6 +3,13 @@
 # Randomness
 On `unrequited` hearts:
 - each heart has a randomized rotate(x) value, where `-30 < x < 30` This rotation is set on mint and persists.
+- the `.background` class is a randomly assigned color
+  - 50% light pink: `#FFDBDB`
+  - 20% blue: `#A2E2FF`
+  - 10% purple: `#E8D1FF`
+  - 10% yellow: `#FFF6AE`
+  - 5% orange: `#FFD7AF`
+  - 5% green: `#C8FFDF`
 
 On `requited` hearts, randomness is introduced through heart color
 - heart color is assigned as a class, one of `.pink` `.blue` `.orange` `.green` `.purple` `.yellow` weighted equally. This includes the two partial hearts that are mostly out of the frame, with no messages.

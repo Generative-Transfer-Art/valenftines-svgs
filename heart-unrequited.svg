@@ -15,7 +15,7 @@
 	.green{fill:#A4FFCA;}
 	.purple{fill:#DAB5FF;}
 	.yellow{fill:#FFF6AE;}
-	.lightpink{fill:#FFDBDB;}
+	.background{fill:#FFDBDB;}
 
 </style>
 <defs>
@@ -32,7 +32,7 @@
     </radialGradient>
   </defs>
 
-<rect class="lightpink" width="400" height="400"/>
+<rect class="background" width="400" height="400"/>
 
 <animate xlink:href="#rainbow"
 	  attributeName="fr"

@@ -2,7 +2,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="400" height="400" class="container"
 	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
 <style type="text/css">
-	.container{margin: 60px auto; font-size:28px; font-family: monospace, monospace; font-weight: 500; letter-spacing: 2px;}
+	.container{font-size:28px; font-family: monospace, monospace; font-weight: 500; letter-spacing: 2px;}
 	.whitetext{fill:#ffffff; text-anchor:middle;}
 	.blacktext{fill:#000000; text-anchor:middle;}
 	.pinktext{fill:#FA0F95; text-anchor:middle;}

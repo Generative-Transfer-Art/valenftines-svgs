@@ -68,7 +68,7 @@
 	<text class="whitetext"><tspan x="0" y="-15">BULLISH</tspan><tspan x="0" y="20">4LOVE</tspan></text>
 </g>
 
-<g transform="translate(340,344) rotate(-22)">
+<g transform="translate(336,348) rotate(-22)">
 	<use xlink:href="#heart" class="black"/>
 	<text class="whitetext"><tspan x="0" y="-15">BE</tspan><tspan x="0" y="20">MINE</tspan></text>
 </g>

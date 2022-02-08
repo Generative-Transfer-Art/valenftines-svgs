@@ -3,13 +3,7 @@
 # Randomness
 On `unrequited` hearts:
 - each heart has a randomized rotate(x) value, where `-30 < x < 30` This rotation is set on mint and persists.
-- the `.background` class is a randomly assigned color
-  - light pink: `#FFDBDB`
-  - blue: `#A2E2FF`
-  - light purple: `#E8D1FF`
-  - yellow: `#FFF6AE`
-  - light orange: `#FFD7AF`
-  - light green: `#C8FFDF`
+- all UNREQUITED valentines have a lightpink background: `#FFDBDB` (no randomness here)
 
 On `requited` hearts, randomness is introduced through heart color
 - heart color is assigned as a class, one of `.pink` `.blue` `.orange` `.green` `.purple` `.yellow` weighted equally. This includes the two partial hearts that are mostly out of the frame, with no messages.
@@ -17,7 +11,7 @@ On `requited` hearts, randomness is introduced through heart color
 # Variation
 - REQUITED hearts are slightly different than their matches/copies
   - the original NFT gets its rainbow background as specified
-  - the new match-of NFT has an inverted gradient: *swap only the hex values* on line 28 and line 30
+  - the new match-of NFT has an inverted gradient: *swap only the hex values* on line 28 and line 30 (so the pattern ABCDA becomes ADCBA)
 
 # Transformation
 When `unrequited` upgrades to `requited`:
